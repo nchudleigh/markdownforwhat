@@ -1,0 +1,21 @@
+{
+  "name": "markdownForWhat",
+  "main": "markdownForWhat.js",
+  "version": "0.0.1",
+  "authors": [
+    "Neil Chudleigh <nchudleigh@gmail.com>"
+  ],
+  "description": "A simple angular directive that wraps marked.js markdown library",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "markdown",
+    "angular",
+    "lil",
+    "jon",
+    "markdownforwhat"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nchudleigh/markdownforwhat"
+}
