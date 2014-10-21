@@ -1,14 +1,27 @@
-##Implementation
+#markdownForWhat.js
+##Neil Chudleigh
 
+##Installation
+```bower install markdownforwhat```
+
+Include marked.js in your app
+Include markdownForWhat.js in your app
+
+##Implementation
+input area
 ```
-<!--input area -->
 <textarea ng-model="markdownContent">
 </textarea>
-<!--output area -->
+'''
+output area
+'''
 <markdown-for-what content="markdownContent">
 </markdown-for-what>
 ```
->To make the output scrollable wrap it in a div
+To make the output scrollable wrap it in a div
 
-####Options
-Coming soon
+###Coming soon:
+-configuration from element
+-code type highlighting
+-preview button
+-kitchen sink text editor

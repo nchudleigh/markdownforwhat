@@ -2,20 +2,27 @@
   "name": "markdownForWhat",
   "main": "markdownForWhat.js",
   "version": "0.0.1",
+  "homepage": "https://github.com/nchudleigh/markdownforwhat",
   "authors": [
     "Neil Chudleigh <nchudleigh@gmail.com>"
   ],
-  "description": "A simple angular directive that wraps marked.js markdown library",
-  "moduleType": [
-    "globals"
-  ],
+  "description": "A simple angular directive wrapper for marked.",
   "keywords": [
     "markdown",
-    "angular",
-    "lil",
-    "jon",
-    "markdownforwhat"
+    "marked",
+    "markdownforwhat",
+    "liljon"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/nchudleigh/markdownforwhat"
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marked": "~0.3.2",
+    "angular": "~1.3.0"
+  }
 }
