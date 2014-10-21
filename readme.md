@@ -1,5 +1,5 @@
 # markdownForWhat.js
-#### Author:Neil Chudleigh
+#### Author: Neil Chudleigh
 #### Version: 0.0.1
 
 ##Installation

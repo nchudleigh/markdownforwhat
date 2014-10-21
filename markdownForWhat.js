@@ -1,4 +1,4 @@
-(function(window, document, location, navigator, $, undefined) {
+(function(window, document, location, navigator, $, angular, undefined) {
     'use strict';
 
     angular.module('markdownForWhat',[])
@@ -41,4 +41,4 @@
 
         
     })
-;}(window, document, location, navigator, angular, undefined));
+;}(window, document, location, navigator, $, angular, undefined));
