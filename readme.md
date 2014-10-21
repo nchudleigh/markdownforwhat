@@ -1,5 +1,6 @@
-#markdownForWhat.js
-##Neil Chudleigh
+# markdownForWhat.js
+#### Author:Neil Chudleigh
+#### Version: 0.0.1
 
 ##Installation
 ```bower install markdownforwhat```
@@ -20,8 +21,8 @@ output area
 ```
 To make the output scrollable wrap it in a div
 
-###Coming soon:
--configuration from element
--code type highlighting
--preview button
--kitchen sink text editor
+### Coming soon:
+- configuration from element
+- code type highlighting
+- preview button
+- kitchen sink text editor
