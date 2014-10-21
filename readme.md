@@ -5,17 +5,17 @@
 ##Installation
 ```bower install markdownforwhat```
 
-Include marked.js in your app
-Include markdownForWhat.js in your app
+- Include marked.js in your app
+- Include markdownForWhat.js in your app
 
 ##Implementation
 input area
 ```
 <textarea ng-model="markdownContent">
 </textarea>
-'''
+```
 output area
-'''
+```
 <markdown-for-what content="markdownContent">
 </markdown-for-what>
 ```
